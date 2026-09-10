@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/variables/1.0.0/schema.json",
+  "variables": [
+    {
+      "name": "lakehouse_bronze",
+      "note": "",
+      "type": "ItemReference",
+      "value": {
+        "itemId": "521b81fe-8593-4497-b423-76d1488dd8c4",
+        "workspaceId": "84fee70f-0fab-44ad-b30a-7c7d336d4c56"
+      }
+    },
+    {
+      "name": "sharepoint_path",
+      "note": "",
+      "type": "String",
+      "value": "https://aka.ms/test"
+    }
+  ]
+}
