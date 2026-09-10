@@ -1,0 +1,17 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/valueSet/1.0.0/schema.json",
+  "name": "Produccion",
+  "variableOverrides": [
+    {
+      "name": "lakehouse_bronze",
+      "value": {
+        "itemId": "06e3c22b-e915-4a71-a658-d1a76a67ab02",
+        "workspaceId": "ec0973d0-8749-40ff-ad86-70b13619128f"
+      }
+    },
+    {
+      "name": "sharepoint_path",
+      "value": "https://aka.ms/produccion"
+    }
+  ]
+}

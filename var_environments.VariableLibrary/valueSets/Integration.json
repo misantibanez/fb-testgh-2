@@ -1,0 +1,17 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/valueSet/1.0.0/schema.json",
+  "name": "Integration",
+  "variableOverrides": [
+    {
+      "name": "lakehouse_bronze",
+      "value": {
+        "itemId": "c4a78083-6659-4911-a72a-f20127b6f42f",
+        "workspaceId": "2d26273e-8e36-407f-884e-b2f4f2f7b87a"
+      }
+    },
+    {
+      "name": "sharepoint_path",
+      "value": "https://aka.ms/integration"
+    }
+  ]
+}
